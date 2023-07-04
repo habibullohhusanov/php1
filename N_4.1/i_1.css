@@ -1,0 +1,17 @@
+input {
+	width: 500px;
+	background: black;
+	color: white;
+	padding: 15px;
+	font-size: 25px;
+	margin: 25px;
+	margin-left: 37%;
+}
+button {
+	background: black;
+	color: white;
+	font-size: 25px;
+	padding: 15px 20px;
+	border: 2px solid #484343;
+	margin-left: 48%;
+}

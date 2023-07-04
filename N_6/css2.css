@@ -1,0 +1,29 @@
+td, th {
+	border: 2px solid white;
+	border-radius: 15px;
+	color: white;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+#but {
+	padding: 10px 20px;
+	margin: 50px 80px;
+	background-color: #24262b;
+	border: 2px solid #24262b;
+	font-size: 20px;
+}
+#but:hover {
+	border: 2px solid white;
+}
+td > button {
+	padding: 5px 10px;
+	font-size: 15px;
+	background-color: #24262b;
+	border: 1px solid #24262b;
+	margin-left: 5px;
+}
+td > button:hover {
+	border: 1px solid white;
+}
